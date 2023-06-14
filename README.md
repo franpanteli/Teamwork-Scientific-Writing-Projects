@@ -1,2 +1,2 @@
-# Teamwork-scientific-writing-projects
+# Teamwork-Scientific-Writing-Projects
 This repository contains two coursework publications I produced when working in a team with other Physics students. These examples of scientific writing were created when we were assigned a set of questions to research and answer on a topic. This involved assigning team members a question, researching answers and combining our responses into a coherent narrative within a timeframe. This required the use of LaTeX for one example, and shared documents in Word for another. 
